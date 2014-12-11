@@ -2,9 +2,7 @@
 
 An elegant, friendly and courteous butler to avoid headaches with ServiceWorker 
 in a clean, elegant and simple programmatic in order to provide a better approach for insanely great use
-of ServiceWorker features
-
-way underling ugly implementation details
+of ServiceWorker features underling ugly implementation details
 
 ServiceWorker introduces new interesting, reliable and powerful ways to do awesome things, such as start chain
 
