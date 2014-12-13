@@ -1,0 +1,29 @@
+{
+  "name": "butler",
+  "description": "An elegant, friendly and courteous butler to avoid headaches with Service Workers",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": "h2non/butler",
+  "author": "Tomas Aparicio",
+  "homepage": "https://github.com/h2non/butler",
+  "scripts": [
+    "butler.js",
+    "butler.min.js",
+    "butler.min.js.map",
+    "butler.worker.js"
+  ],
+  "keywords": [
+    "serviceworker",
+    "service",
+    "worker",
+    "http",
+    "mock",
+    "mocking",
+    "intercetor",
+    "background",
+    "traffic",
+    "cache",
+    "proxy",
+    "testing"
+  ]
+}

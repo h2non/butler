@@ -1,0 +1,42 @@
+{
+  "name": "butler",
+  "version": "0.1.0",
+  "description": "An elegant, friendly and courteous butler to avoid headaches with Service Workers",
+  "license": "MIT",
+  "repository": "h2non/butler",
+  "author": "Tomas Aparicio",
+  "main": "./butler.js",
+  "keywords": [
+    "serviceworker",
+    "service",
+    "worker",
+    "http",
+    "mock",
+    "mocking",
+    "intercetor",
+    "background",
+    "traffic",
+    "cache",
+    "proxy",
+    "testing"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "browserify": "^6.3.3",
+    "chai": "^1.9.1",
+    "fw": "^0.1.2",
+    "karma": "^0.12.28",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-firefox-launcher": "^0.1.3",
+    "karma-mocha": "^0.1.9",
+    "lodash": "^2.4.1",
+    "mocha": "^1.21.3",
+    "stubby": "^0.2.9",
+    "uglify-js": "^2.4.15"
+  }
+}
