@@ -2,7 +2,9 @@
 
 > Work in progress!
 
-An elegant, friendly and courteous butler to avoid headaches with [ServiceWorkers][spec] 
+<img src="http://oi58.tinypic.com/x8607.jpg" width="300" />
+
+An elegant, friendly and courteous butler to avoid headaches with [ServiceWorkers][spec]
 in a clean, elegant and simple programmatic in order to provide a better approach for insanely great use
 of ServiceWorker features underling ugly implementation details
 
