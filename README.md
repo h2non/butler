@@ -2,7 +2,7 @@
 
 > Work in progress!
 
-<img src="http://oi58.tinypic.com/x8607.jpg" width="300" />
+<img src="http://oi58.tinypic.com/x8607.jpg" width="300" style="float: right"/>
 
 An elegant, friendly and courteous butler to avoid headaches with [ServiceWorkers][spec]
 in a clean, elegant and simple programmatic in order to provide a better approach for insanely great use
