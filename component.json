@@ -23,7 +23,6 @@
     "background",
     "traffic",
     "cache",
-    "proxy",
-    "testing"
+    "proxy"
   ]
 }

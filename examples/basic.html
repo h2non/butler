@@ -5,12 +5,7 @@
   <script src="../bock.js"></script>
   <script src="//cdn.rawgit.com/lil-js/http/0.1.15/http.js"></script>
   <script type="text/javascript">
-    // configure the proxy request
-    bock('http://httpbin.org')
-      .get('/status/204')
-      .proxy('http://httpbin.org/status/200')
-      .delay(1000)
-      .forward()
+    bulter().load('/test/fixtures/example.js')
 
     function sendSampleRequest() {
       lil.http('http://httpbin.org/status/204', function (err, res) {
